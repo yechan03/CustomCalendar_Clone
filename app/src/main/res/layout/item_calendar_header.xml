@@ -10,7 +10,7 @@
 
         <variable
             name="model"
-            type="com.example.customcalender."
+            type="com.example.customcalender.viewmodel.CalendarHeaderViewModel"
             />
     </data>
 
